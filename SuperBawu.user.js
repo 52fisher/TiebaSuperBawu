@@ -7,7 +7,7 @@
 // @exclude     http://tieba.baidu.com/bawu2/platform/listBlackUser*
 // @exclude     http://tieba.baidu.com/bawu2/platform/listBawuDel*
 // @exclude     http://tieba.baidu.com/bawu2/postaudit/*
-// @version     1.5
+// @version     1.6
 // @description  贴吧吧务功能增强
 // @grant       none
 // ==/UserScript==
